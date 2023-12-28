@@ -1,5 +1,5 @@
 # SpikingViT
-The implement of spikingVit for object detection of event-based datasets.
+The implementation of spikingVit for object detection on event-based datasets.
 ![1703716888213](figs/293152151-c68aa765-f58f-4434-8121-564dfd702b18.png)
 ![1703718305802](figs/293155252-0d45bd1f-7788-4054-ac08-474e4641fcf7.png)
 ![1703718363225](figs/293155375-68793247-f2b3-4145-86a4-b08fc4671fcc.png)
@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Runing scripts
-We recommend you runing our code on **Linux** platform, as there are some error about multiprocessing package on windows platform.
+We highly recommend running our code on the Linux platform, as there are some errors related to the multiprocessing package on the Windows platform.
 ```bash
 sudo chmod ./train_gen1/4.sh
 ./train_gen1/4.sh

@@ -1,0 +1,6 @@
+defaults:
+  - general
+  - model: rnndet
+  - dataset: ???
+  - encoder_model: ???
+  - optional model/dataset: ${model}_${dataset}

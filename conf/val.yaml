@@ -1,0 +1,15 @@
+defaults:
+  - dataset: ???
+  - model: rnndet
+  - _self_
+
+checkpoint: ???
+use_test_set: True
+hardware:
+  num_workers:
+    eval: 4
+  gpus: 1 # GPU idx (multi-gpu not supported for validation)
+batch_size:
+  eval: 1
+training:
+  precision: 16

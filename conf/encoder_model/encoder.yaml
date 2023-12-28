@@ -1,0 +1,9 @@
+defaults:
+  - default.yaml
+
+encoder:
+  partition_split_32: 2
+  attention:
+    partition_size: ???
+    scale: 0.25
+    num_heads: 8

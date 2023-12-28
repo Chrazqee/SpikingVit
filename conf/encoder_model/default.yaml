@@ -1,0 +1,10 @@
+encoder:
+  input_channels:  20
+  encoder_input_channels: 64
+  num_heads: 8
+  dim_multiplier: [1, 2, 4, 8]
+  num_blocks: [2, 2, 2, 2]
+
+downsample:
+  input_dim: 20
+  first_layer_dim: 32

@@ -14,7 +14,7 @@ pip install -r requirements.txt
 ```
 
 ## Runing scripts
-We recommend you runing our code on **Linux** platform, as there are some error about multiprocessing package.
+We recommend you runing our code on **Linux** platform, as there are some error about multiprocessing package on windows platform.
 ```bash
 sudo chmod ./train_gen1/4.sh
 ./train_gen1/4.sh

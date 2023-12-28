@@ -16,13 +16,13 @@ pip install -r requirements.txt
 ## Runing scripts
 We highly recommend running our code on the **Linux** platform, as there are some errors related to the multiprocessing package on the **Windows** platform.
 ```bash
-sudo chmod ./train_gen1/4.sh
+sudo chmod +x ./train_gen1/4.sh
 ./train_gen1/4.sh
 ```
 
 ## Validataion scripts
 ```bash
-sudo chmod ./val_gen1/4.sh
+sudo chmod +x ./val_gen1/4.sh
 ./val_gen1/4.sh
 ```
 

@@ -36,3 +36,4 @@ And don't forget to cite our acknowledgment project.
 ## Code Acknowledgments
 This project has used code from the following projects:
 - [RVT](https://github.com/uzh-rpg/RVT) for their most of code and dataset preprocessing.
+- [spikformer](https://github.com/ZK-Zhou/spikformer) for their high-performance SSA module, which has significantly improved our project.

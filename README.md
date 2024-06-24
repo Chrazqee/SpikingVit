@@ -37,3 +37,4 @@ And don't forget to cite our acknowledgment project.
 This project has used code from the following projects:
 - [RVT](https://github.com/uzh-rpg/RVT) for their most of code and dataset preprocessing.
 - [spikformer](https://github.com/ZK-Zhou/spikformer) for their high-performance SSA module, which has significantly improved our project.
+- [YOLOX](https://github.com/Megvii-BaseDetection/YOLOX) for their high-performance detection model, which has significantly improved our project.

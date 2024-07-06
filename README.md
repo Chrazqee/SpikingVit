@@ -40,7 +40,7 @@ If you find our work helpful for your research, please consider citing the follo
   keywords={Object detection;Transformers;Cameras;Feature extraction;Data mining;Voltage control;Task analysis;Object Detection;DVS Data Converting;Spiking Transformer;Residual Voltage Memory},
   doi={10.1109/TCDS.2024.3422873}}
 ```
-And don't forget to cite our acknowledgment project.
+And don't forget to cite our acknowledgment projects.
 
 ## Code Acknowledgments
 This project has used code from the following projects:

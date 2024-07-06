@@ -29,7 +29,16 @@ sudo chmod +x ./val_gen1/4.sh
 ## Citation
 If you find our work helpful for your research, please consider citing the following BibTeX entry.
 ```Tex
-
+@ARTICLE{10586833,
+  author={Yu, Lixing and Chen, Hanqi and Wang, Ziming and Zhan, Shaojie and Shao, Jiankun and Liu, Qingjie and Xu, Shu},
+  journal={IEEE Transactions on Cognitive and Developmental Systems}, 
+  title={SpikingViT: a Multi-scale Spiking Vision Transformer Model for Event-based Object Detection}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-17},
+  keywords={Object detection;Transformers;Cameras;Feature extraction;Data mining;Voltage control;Task analysis;Object Detection;DVS Data Converting;Spiking Transformer;Residual Voltage Memory},
+  doi={10.1109/TCDS.2024.3422873}}
 ```
 And don't forget to cite our acknowledgment project.
 
